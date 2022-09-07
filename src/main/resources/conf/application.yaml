@@ -1,0 +1,2 @@
+dbPath: "src/main/resources/data/cars.json"
+partitionName: "run_date"
